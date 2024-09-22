@@ -31,4 +31,4 @@ Every chapter includes practice problems that help reinforce the concepts covere
 I'm currently expanding my knowledge in ethical hacking and AI, with Python being the foundation. Stay tuned for updates!
 
 ## Contact
-Feel free to reach out if you have any questions or suggestions! You can connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-tambe/) or via email at ayushtambe@example.com.
+Feel free to reach out if you have any questions or suggestions! You can connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-tambe/) or via email at ayushtambe48@example.com.
