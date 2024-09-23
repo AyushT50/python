@@ -1,6 +1,6 @@
 # File I/O 
 """
-Chapter 5: File I/O  in Python
+Chapter 9: File I/O  in Python
 This script covers the usage of File I/O 
 Author: Ayush Tambe
 Date: September 2024
