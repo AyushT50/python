@@ -1,5 +1,12 @@
 # Object Oriented Programming
 
+"""
+Chapter 10: Object Oriented Programming in Python
+This script covers the usage of class ,constructor
+Author: Ayush Tambe
+Date: September 2024
+"""
+
 ''''
 class Employee:
     name = "Ayush" # This is class attribute
