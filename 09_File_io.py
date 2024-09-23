@@ -1,4 +1,12 @@
 # File I/O 
+
+"""
+File I/O Operations in Python
+
+This script demonstrates various file input/output operations,
+including reading and writing text files, as well as handling
+files using the context manager.
+"""
 ''''
 types of files
 1. text files : .txt, .docx,.log
